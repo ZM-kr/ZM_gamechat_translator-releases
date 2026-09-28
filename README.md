@@ -27,18 +27,15 @@ Windows x64용이며 .NET 런타임과 OCR 모델이 포함됩니다. 최소 대
 
 [처음 실행 안내](START-HERE.txt) · [상세 설정](docs/TESTER-GUIDE.md) · [변경 사항](docs/RELEASE-NOTES.md)
 
-<details>
-<summary>스마트 앱 컨트롤(SAC)로 실행이 차단될 때</summary>
+내장 OCR의 영어·중국어 외 언어는 **OCR 설정 → 고급 · Windows OCR 호환 모드**에서 해당 지원 언어팩을 설치하고 사용할 언어를 선택한 뒤 **저장·적용**하세요. 인식 가능한 언어는 Windows OCR 지원 목록에 따릅니다.
+
+## 스마트 앱 컨트롤(SAC)로 실행이 차단될 때
 
 배포판은 코드 서명이 없어 Windows가 실행을 차단할 수 있습니다. 받은 파일과 배포자를 신뢰하고 설정 변경에 동의한다면 **Windows 보안 → 앱 및 브라우저 컨트롤 → 스마트 앱 컨트롤 설정 → 끄기**를 선택한 뒤 다시 실행할 수 있습니다.
 
 이 앱만 허용하는 기능은 없으며 **PC 전체의 SAC 보호가 꺼집니다.** Defender 실시간 보호는 켜 두세요. 최신 Windows 업데이트에서는 SAC를 다시 켤 수 있지만 이전 버전은 Windows 초기화·재설치가 필요할 수 있습니다. 변경 전 업데이트와 설정 화면의 안내를 확인하세요. 다시 켜면 앱이 재차 차단될 수 있습니다.
 
 설정 변경은 선택 사항입니다. 변경을 원하지 않으면 차단 문구를 제보해 주세요. [Microsoft 공식 FAQ](https://support.microsoft.com/en-us/windows/security/threat-malware-protection/smart-app-control-frequently-asked-questions)
-
-</details>
-
-내장 OCR의 영어·중국어 외 언어는 **OCR 설정 → 고급 · Windows OCR 호환 모드**에서 해당 지원 언어팩을 설치하고 사용할 언어를 선택한 뒤 **저장·적용**하세요. 인식 가능한 언어는 Windows OCR 지원 목록에 따릅니다.
 
 ## 안티치트 및 사용 책임 안내
 
