@@ -1,0 +1,26 @@
+name: 문제 제보
+description: 실행·OCR·번역 문제를 알려 주세요.
+title: '[문제] '
+body:
+  - type: markdown
+    attributes:
+      value: '이 제보는 공개됩니다. API 키, 계정 정보, 개인 대화, 설정 파일, 원본 로그는 올리지 마세요.'
+  - type: input
+    id: version
+    attributes:
+      label: 앱 버전 / 테스트판 번호
+      placeholder: 0.4.30-test.1
+    validations:
+      required: true
+  - type: textarea
+    id: environment
+    attributes:
+      label: 사용 환경
+      description: Windows 버전, 게임, 창 모드, 해상도·화면 배율, 번역 엔진을 적어 주세요.
+  - type: textarea
+    id: problem
+    attributes:
+      label: 증상과 재현 순서
+      description: 예상한 결과, 실제 결과, 오류 문구를 적어 주세요. OCR 예시는 개인 대화를 제외해 주세요.
+    validations:
+      required: true

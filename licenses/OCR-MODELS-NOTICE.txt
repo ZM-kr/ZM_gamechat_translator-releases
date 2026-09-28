@@ -1,0 +1,16 @@
+PaddleOCR models and character dictionaries
+Copyright the PaddlePaddle / PaddleOCR contributors.
+https://github.com/PaddlePaddle/PaddleOCR
+Licensed under the Apache License, Version 2.0 (see Apache-2.0.txt).
+
+ONNX model conversions distributed by RapidAI / RapidOCR contributors.
+https://github.com/RapidAI/RapidOCR
+https://www.modelscope.cn/models/RapidAI/RapidOCR
+Licensed under the Apache License, Version 2.0.
+
+This application includes PP-OCRv6 small detection and recognition and
+korean_PP-OCRv5 mobile recognition from RapidOCR's v3.9.2 model registry.
+The character dictionaries were extracted from the corresponding ONNX
+character metadata; newline encoding is normalized to UTF-8 LF.
+Models are unmodified. Exact source URLs and SHA-256 hashes are recorded
+in models/ocr/models.json alongside the redistributed models.

@@ -1,0 +1,8 @@
+*.zip
+*.exe
+*.dll
+*.onnx
+*.log
+*.jsonl
+settings.json
+logs/
