@@ -19,4 +19,4 @@
 - 작거나 흐린 글자·빠른 스크롤에서는 채팅이 잘못 인식되거나 누락될 수 있습니다. 번역 속도와 품질은 선택한 서비스와 네트워크 상태에 따라 달라집니다.
 - 번역 중에는 다른 창으로 전환해도 지정한 화면 영역을 계속 읽습니다. 게임을 하지 않을 때는 번역을 중지하세요.
 
-[사용 안내](TESTER-GUIDE.md) · [문제 제보](BUG-REPORT.md)
+[사용 안내](https://github.com/ZM-kr/ZM_gamechat_translator-releases/blob/main/docs/TESTER-GUIDE.md) · [문제 제보](https://github.com/ZM-kr/ZM_gamechat_translator-releases/blob/main/docs/BUG-REPORT.md)
