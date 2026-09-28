@@ -1,9 +1,9 @@
 # ZM GameChat Translator
 
-게임 화면의 영어·중국어 채팅을 읽고 **한국어 번역을 화면 위에 표시**하는 Windows 앱입니다.
+게임 화면의 다양한 언어로 된 채팅을 읽고 **한국어 번역을 화면 위에 표시**하는 Windows 앱입니다.
 
-- 기본 구글 무료 번역: 계정·API 키 없이 시작
-- 내장 OCR: Windows 언어팩 별도 설치 불필요
+- **구글 클라우드 API 번역 권장**, 무료 번역·AI 번역·로컬 모델도 선택 가능
+- 내장 OCR로 영어·중국어 인식, Windows OCR과 언어팩으로 다른 지원 언어도 인식
 - 한국어 채팅 보완, 게임별 용어집, 위치를 조절할 수 있는 번역창
 - WarDogs 채널과 팀 색상 지원
 - 로그 기록은 기본 비활성화
@@ -20,8 +20,8 @@ Windows x64용이며 .NET 런타임과 OCR 모델이 포함됩니다. 최소 대
 
 ## 시작하기
 
-1. ZIP을 모두 풀고 `ZM.GameChatTranslator.exe`를 실행합니다. 실행 파일 옆의 **models 폴더**를 함께 보관하세요.
-2. 설정 마법사에서 기본 **구글 무료 번역**으로 연결을 확인합니다. 인터넷 연결이 필요합니다.
+1. ZIP을 모두 풀고 `ZM.GameChatTranslator.exe`를 실행합니다.
+2. **설정 마법사 → 일반 번역 → 구글 클라우드 번역**을 선택하고, 안내에 따라 Google Cloud 프로젝트·결제 계정·API 키를 설정한 뒤 연결을 확인합니다. 사용량에 따라 요금이 발생할 수 있습니다.
 3. 게임을 창 모드 또는 테두리 없는 창 모드로 열고 채팅 영역을 지정합니다.
 4. 번역창 위치를 정하고 **저장·적용 → 번역 시작**을 누릅니다. 기본 단축키는 **Ctrl+Alt+T**입니다.
 
@@ -37,6 +37,8 @@ Windows x64용이며 .NET 런타임과 OCR 모델이 포함됩니다. 최소 대
 설정 변경은 선택 사항입니다. 변경을 원하지 않으면 차단 문구를 제보해 주세요. [Microsoft 공식 FAQ](https://support.microsoft.com/en-us/windows/security/threat-malware-protection/smart-app-control-frequently-asked-questions)
 
 </details>
+
+내장 OCR의 영어·중국어 외 언어는 **OCR 설정 → 고급 · Windows OCR 호환 모드**에서 해당 지원 언어팩을 설치하고 사용할 언어를 선택한 뒤 **저장·적용**하세요. 인식 가능한 언어는 Windows OCR 지원 목록에 따릅니다.
 
 ## 사용 시 알아둘 점
 
