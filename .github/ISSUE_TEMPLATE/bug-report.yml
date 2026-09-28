@@ -8,7 +8,7 @@ body:
   - type: input
     id: version
     attributes:
-      label: 앱 버전 / 테스트판 번호
+      label: 앱 버전 / 배포 번호
       placeholder: 0.4.30-test.1
     validations:
       required: true

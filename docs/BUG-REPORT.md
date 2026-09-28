@@ -3,7 +3,7 @@
 모르는 항목은 비워도 됩니다. 계정명·API 키·개인 대화는 적지 마세요. 이 저장소의 Issues로 제보해 주세요. Issues는 공개되므로 설정 파일이나 원본 로그를 첨부하지 마세요.
 
 ```text
-앱 버전 / 테스트판 번호: (release-manifest.json의 release에서 확인)
+앱 버전 / 배포 번호: (release-manifest.json의 release에서 확인)
 Windows 버전 / x64 여부:
 게임 / 창 모드:
 해상도 / 화면 배율(예: 2560×1440 / 125%) / 모니터 수:
