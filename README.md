@@ -1,4 +1,4 @@
-# ZM GameChat Translator
+﻿# ZM GameChat Translator
 
 게임 화면의 다양한 언어로 된 채팅을 읽고 **한국어 번역을 화면 위에 표시**하는 Windows 앱입니다.
 
@@ -10,7 +10,7 @@
 
 ## 다운로드
 
-**현재 배포 버전: 0.4.30** · [다운로드 및 변경 사항](https://github.com/ZM-kr/ZM_gamechat_translator-releases/releases/tag/v0.4.30)
+**현재 배포 버전: 1.0.0** · [다운로드 및 변경 사항](https://github.com/ZM-kr/ZM_gamechat_translator-releases/releases/tag/v1.0.0)
 
 [배포 파일 보기](https://github.com/ZM-kr/ZM_gamechat_translator-releases/releases)
 
