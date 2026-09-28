@@ -16,7 +16,7 @@
 
 릴리스의 **Assets**에서 `ZM-GameChatTranslator-…-win-x64.zip`을 받으세요. `Source code` ZIP은 이 안내 문서의 사본이며 프로그램이 아닙니다. `SHA256SUMS.txt`는 다운로드한 ZIP의 손상 여부를 확인하는 데 사용합니다.
 
-Windows x64용이며 .NET 런타임과 OCR 모델이 포함됩니다. 최소 대상은 Windows 10 2004 이상이고 현재 검증 환경은 Windows 11입니다.
+Windows x64용이며 .NET 런타임과 OCR 모델이 포함됩니다. 최소 대상은 Windows 10 2004 이상입니다.
 
 ## 시작하기
 
