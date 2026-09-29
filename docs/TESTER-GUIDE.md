@@ -1,4 +1,4 @@
-﻿# 사용 안내 · 1.0.1
+﻿# 사용 안내 · 1.0.2
 
 처음에는 ZIP 안의 **START-HERE.txt** 순서대로 진행하세요. 처음 실행하면 **설정 마법사**가 열리고, 제어판 위쪽 **설정 마법사** 버튼으로 언제든 다시 열 수 있습니다. 처음 사용할 때는 인식 결과와 번역 표시가 정상인지 확인하세요. 설정 중 문제가 생기면 오류 문구와 함께 제보해 주세요.
 
@@ -35,7 +35,7 @@ Windows x64용이며 .NET 런타임과 글자 인식(OCR) 모델이 포함되어
   - 무료 사용량이 적어 **채팅이 많은 게임에서는 도중에 한도에 걸려** 번역이 실패할 수 있습니다. 한도 초과면 오류 문구로 알려 줍니다.
   - Gemini 무료 등급에서는 보낸 채팅과 번역 결과가 Google 서비스 개선에 쓰이고 사람이 검토할 수 있습니다.
 - **클라우드 API:** OpenAI·Gemini·DeepSeek·OpenRouter·Groq·Azure 프리셋을 누르고 모델 ID와 본인 API 키를 입력합니다. 요금은 각 서비스 기준입니다.
-- **Codex:** [공식 CLI 설치 안내](https://learn.chatgpt.com/docs/codex/cli)에서 **Windows**를 골라 설치하고, Windows PowerShell에서 `codex login`으로 로그인합니다. `codex login status`로 확인할 수 있습니다. 앱에서 **Codex 자동 찾기**를 누르세요. 자동 찾기에 실패하면 **찾아보기**에서 Windows용 `codex.exe`를 지정합니다(`codex.cmd`나 WSL 내부 파일은 제외). ChatGPT 계정 한도가 적용되고, 응답이 API보다 느립니다. 사용한 모델을 제보에 적어 주세요.
+- **Codex:** [공식 CLI 설치 안내](https://learn.chatgpt.com/docs/codex/cli)에서 **Windows**를 골라 설치하고, Windows PowerShell에서 `codex login`으로 로그인합니다. `codex login status`로 확인할 수 있습니다. 앱에서 **Codex 자동 찾기**를 누르세요. ChatGPT 앱·Codex 설치판·npm·VS Code 확장 등에 들어 있는 Codex를 모두 찾아 **가장 최신 버전**을 사용하며, 사용 중인 버전과 설치 위치가 표시됩니다. 자동 찾기에 실패하면 **찾아보기**에서 Windows용 `codex.exe`를 지정합니다(`codex.cmd`나 WSL 내부 파일은 제외). ChatGPT 계정 한도가 적용되고, 응답이 API보다 느립니다. 사용한 모델을 제보에 적어 주세요.
 - **로컬 모델:** 실행 중인 OpenAI 호환 서버(Ollama, LM Studio)의 주소와 로드된 모델이 필요합니다. 서버는 ZIP에 포함되지 않습니다.
 
 연결은 **진단 · 테스트 → 선택한 엔진으로 번역** 또는 마법사의 **연결 테스트**로 확인합니다. 프로그램에 번역 계정이나 사용료가 포함되지는 않습니다.

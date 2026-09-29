@@ -11,7 +11,7 @@
 
 ## 다운로드
 
-**현재 배포 버전: 1.0.1** · [다운로드 및 변경 사항](https://github.com/ZM-kr/ZM_gamechat_translator-releases/releases/tag/v1.0.1)
+**현재 배포 버전: 1.0.2** · [다운로드 및 변경 사항](https://github.com/ZM-kr/ZM_gamechat_translator-releases/releases/tag/v1.0.2)
 
 [배포 파일 보기](https://github.com/ZM-kr/ZM_gamechat_translator-releases/releases)
 
@@ -30,7 +30,7 @@ Windows x64용이며 .NET 런타임과 OCR 모델이 포함됩니다. 최소 대
 
 [처음 실행 안내](START-HERE.txt) · [상세 설정](docs/TESTER-GUIDE.md) · [변경 사항](docs/RELEASE-NOTES.md)
 
-**내 채팅 번역:** 번역 중 게임에서 **Shift+Enter**를 누르면 입력 창이 뜹니다. 한국어로 입력하고 Enter를 누르면 선택한 언어로 번역해 클립보드에 넣으니, 게임 채팅에 **Ctrl+V**로 붙여 넣으세요. ↑/↓로 언어를 바꿉니다. 언어·단축키는 **내 채팅 번역** 탭에서 설정하며, 게임에 자동으로 입력하지 않습니다.
+**내 채팅 번역:** 번역 중 게임에서 **Shift+Enter**를 누르면 입력 창이 뜹니다. 한국어로 입력하고 Enter를 누르면 선택한 언어로 번역해 클립보드에 넣으니, 게임 채팅에 **Ctrl+V**로 붙여 넣으세요. ↑/↓로 언어를 바꿉니다. 입력 창은 기본적으로 배경 없이 글자만 보이는 투명 배경입니다. 언어·단축키·입력 창 모양은 **내 채팅 번역** 탭에서 설정하며, 게임에 자동으로 입력하지 않습니다.
 
 내장 OCR의 영어·중국어 외 언어는 **OCR 설정 → 고급 · Windows OCR 호환 모드**에서 해당 지원 언어팩을 설치하고 사용할 언어를 선택한 뒤 **저장·적용**하세요. 인식 가능한 언어는 Windows OCR 지원 목록에 따릅니다.
 
