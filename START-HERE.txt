@@ -1,4 +1,4 @@
-﻿ZM GameChat Translator · 1.0.2 공개 배포판
+﻿ZM GameChat Translator · 1.0.3 공개 배포판
 
 게임 채팅을 읽어 한국어 번역을 화면에 표시하는 Windows 프로그램입니다.
 OCR 오인식, 번역 지연·누락이 발생할 수 있습니다.
