@@ -2,16 +2,17 @@
 
 게임 화면의 다양한 언어로 된 채팅을 읽고 **한국어 번역을 화면 위에 표시**하는 Windows 앱입니다.
 
-- **구글 클라우드 API 번역 권장**, Microsoft 번역(Azure)·구글/Bing 무료 번역·AI 번역·로컬 모델도 선택 가능
+- **구글 클라우드 API 번역 권장**, Microsoft 번역(Azure)·구글/Bing 무료 번역·AI 번역(API 키 또는 Claude·Codex 계정 로그인)·로컬 모델도 선택 가능
 - **내 채팅 번역:** 번역 중 Shift+Enter로 한국어를 입력하면 선택한 언어로 번역해 클립보드에 넣어 줍니다
 - 내장 OCR로 영어·중국어 인식, Windows OCR과 언어팩으로 다른 지원 언어도 인식
 - 한국어 채팅 보완, 게임별 용어집, 위치를 조절할 수 있는 번역창(반투명 배경 상자 선택 가능)
 - WarDogs 채널과 팀 색상 지원
+- 핵 판매·QQ 그룹·성인 사이트 같은 광고 채팅은 번역하지 않고 숨김(설정에서 끌 수 있음)
 - 로그 기록은 기본 비활성화
 
 ## 다운로드
 
-**현재 배포 버전: 1.0.3** · [다운로드 및 변경 사항](https://github.com/ZM-kr/ZM_gamechat_translator-releases/releases/tag/v1.0.3)
+**현재 배포 버전: 1.0.4** · [다운로드 및 변경 사항](https://github.com/ZM-kr/ZM_gamechat_translator-releases/releases/tag/v1.0.4)
 
 [배포 파일 보기](https://github.com/ZM-kr/ZM_gamechat_translator-releases/releases)
 
