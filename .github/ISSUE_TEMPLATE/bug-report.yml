@@ -9,14 +9,14 @@ body:
     id: version
     attributes:
       label: 앱 버전 / 배포 번호
-      placeholder: 0.4.30-test.1
+      placeholder: 1.0.7
     validations:
       required: true
   - type: textarea
     id: environment
     attributes:
       label: 사용 환경
-      description: Windows 버전, 게임, 창 모드, 해상도·화면 배율, 번역 엔진을 적어 주세요.
+      description: Windows 버전, 게임, 사용 중인 프리셋, 창 모드, 해상도·화면 배율, 번역 엔진을 적어 주세요.
   - type: textarea
     id: problem
     attributes:
