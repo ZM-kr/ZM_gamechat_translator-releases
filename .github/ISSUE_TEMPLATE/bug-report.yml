@@ -9,7 +9,7 @@ body:
     id: version
     attributes:
       label: 앱 버전 / 배포 번호
-      placeholder: 1.1.1
+      placeholder: 1.1.2
     validations:
       required: true
   - type: textarea

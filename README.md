@@ -14,7 +14,7 @@
 
 ## 다운로드
 
-**현재 배포 버전: 1.1.1** · [다운로드 및 변경 사항](https://github.com/ZM-kr/ZM_gamechat_translator-releases/releases/tag/v1.1.1)
+**현재 배포 버전: 1.1.2** · [다운로드 및 변경 사항](https://github.com/ZM-kr/ZM_gamechat_translator-releases/releases/tag/v1.1.2)
 
 [배포 파일 보기](https://github.com/ZM-kr/ZM_gamechat_translator-releases/releases)
 
